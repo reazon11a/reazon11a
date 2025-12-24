@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reazon11a" alt="reazon11a" /></a> </p>
 
-- 🔭 I’m currently working on Hajirhub **Hajirihub**
+- 🔭 I’m currently working on Hajirhub https://github.com/reazon11a/Project-4th.git
 
 - 🌱 I’m currently learning **AWS, SAAS developments**
 
