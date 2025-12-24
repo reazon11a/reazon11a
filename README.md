@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zzzreazon@gmail.com**
 
-- 📄 Know about my experiences [https://reazon.me0
+- 📄 Know about my experiences [https://reazon.me)
 
 - ⚡ Fun fact **I think Im funny**
 
