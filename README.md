@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zzzreazon@gmail.com**
 
-- 📄 Know about my experiences [from my portoflio](from my portoflio)
+- 📄 Know about my experiences [https://reazon.me0
 
 - ⚡ Fun fact **I think Im funny**
 
