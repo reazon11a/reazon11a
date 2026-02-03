@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reazon11a&label=Profile%20views&color=0e75b6&style=flat" alt="reazon11a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reazon11a" alt="reazon11a" /></a> </p>
+<p align="left"> <a href="https://reazon.me"><img src="https://github.com/account" alt="reazon11a" /></a> </p>
 
 - 🔭 I’m currently working on Hajirhub https://github.com/reazon11a/Project-4th.git
 
